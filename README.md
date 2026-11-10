@@ -2,7 +2,7 @@
 
 My B.Com (Honours) research project at Shaheed Bhagat Singh Evening College, University of Delhi, supervised by Ms. Seema Choudhary. I worked on it from November 2025 to May 2026 and presented it at two conferences in 2026.
 
-The full paper is in this repo: 2287 Akash Saraswat Research (3).pdf.
+The full paper is in this repo: 2287 Akash Saraswat Research (3).pdf
 
 ## What I wanted to find out
 
