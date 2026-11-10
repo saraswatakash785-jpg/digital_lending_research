@@ -31,7 +31,11 @@ Two questions guided the study:
 
 ## Recommendations in the paper
 
-Financial literacy campaigns with loan terms in local languages, simpler access to government schemes (including help desks in banks), and clearer disclosure of fees and disbursal amounts by fintech lenders.
+- Run financial literacy campaigns for retailers, with loan terms written in local languages.
+- Make government schemes (PM MUDRA Yojana, PM SVANidhi, Stand-Up India) easier to find and apply for, with outreach programmes and help desks in banks.
+- Use AI-enabled platforms, such as Axis My India, to tell micro-retailers which government schemes they qualify for, what the benefits are and how to apply.
+- Ask fintech lenders to explain loan terms clearly, including the difference between the sanctioned and disbursed amount, how interest is calculated and what    fees apply.
+- Build trust through clear communication, good customer service and ethical practices.
 
 ## Limitations
 
